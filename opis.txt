@@ -1,0 +1,9 @@
+Laboratorium identyfikacji systemów
+Opis danych, wiedza wstępna oraz warunki identyfikacji systemu
+Źródło danych: pojedyncza sekcja systemu reaktora zbiornikowego z mieszaniem ciągłym (proces czasu ciągłego).
+1. Cechy dynamiki systemu: dynamika procesu (prawie) liniowa, proces o stałych parametrach.
+2. Dane zebrane z okresem próbkowania T_p=0.1s.
+3. Sygnał pobudzający u znany dokładnie (brak zakłóceń pomiarowych w u).
+4. Model dynamiczny czasu dyskretnego (identyfikacja pośrednia systemu dynamicznego czasu ciągłego).
+4. Dane wejściowe obejmują próbki czasu, sygnał wejściowy (przepływ chłodziwa l/min), oraz sygnały wyjściowe (stężenie molowe mol/l i temperaturę wyrażoną w K).
+5. Cel modelowania: Uzyskanie symulatora wyjaśniającego odpowiedź systemu na poziomie J_FIT>95%.
